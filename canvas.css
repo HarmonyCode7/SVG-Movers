@@ -1,0 +1,6 @@
+.svg-canvas{
+    background: black;
+    margin: 1rem;
+    border: 1rem inset #ccc;
+    box-shadow: -2px 3px 7px 5px #ccc;
+}
